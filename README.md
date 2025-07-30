@@ -52,7 +52,7 @@ Designed and tested using **Tinkercad Circuits**.
 (Make sure you have a Tinkercad account and are logged in to view the simulation.)
 
 ## 📽️ Demo Video
-🎥 Watch a short demo of the project(https://drive.google.com/file/d/1fqMFAbo3S4DL9zoiJYnqRRbkqds-kYUo/view?usp=sharing)
+🎥 [Watch a short demo of the project](https://drive.google.com/file/d/1fqMFAbo3S4DL9zoiJYnqRRbkqds-kYUo/view?usp=sharing)
 
 ## 📁 Folder Structure
 
